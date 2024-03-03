@@ -61,22 +61,4 @@ body {
     background: linear-gradient(to right bottom, white, #b5f5ec 100%);
   }
   
-  table {
-    width: 650px;
-    border: 1px solid;
-    border-collapse: collapse;
-  }
-  
-  th,
-  td {
-    border: 1px solid;
-    text-align: center;
-  }
-  
-  .table-blue {
-    background-color: lightblue;
-  }
-  
-  thead th {
-    text-transform: uppercase;
-  }
+ 
